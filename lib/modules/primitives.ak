@@ -4,8 +4,8 @@ use cardano/assets.{Lovelace}
 
 test integer() {
   // Fix these:
-  let i = Three
-  let j: Int = "22"
+  let i: Int = 3
+  let j: Int = 22
 
   let k = 0xff
   let l = 4_000
